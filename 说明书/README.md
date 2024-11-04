@@ -2,7 +2,7 @@
 
 # 1、SE Net模块
 
-论文《Squeeze-and-Excitation Networks》
+论文《Squeeze-and-Excitation Networks》 2017
 
 ### 1、作用
 
@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
 ```
 
-# 2、CBAM模块
+# 2、CBAM模块 2018
 
 论文《CBAM: Convolutional Block Attention Module》
 
@@ -209,7 +209,7 @@ if __name__ == '__main__':
 
 # 3、ECA模块
 
-论文《ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks》
+论文《ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks》 2019
 
 ### 1、作用
 
@@ -403,7 +403,7 @@ if __name__ == '__main__':
 
 # 5、SimAM模块
 
-论文《SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks》
+论文《SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks》 2021
 
 ### 1、作用
 
